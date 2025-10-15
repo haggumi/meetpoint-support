@@ -10,7 +10,7 @@
 ## 🧭 문의 및 피드백
 앱 이용 중 불편사항, 기능 제안, 오류 신고 등은 아래 메일로 보내주세요.  
 
-📩 **meetpoint.help@gmail.com**
+📩 **dev_haggumi@naver.com**
 
 - 답변 시간: 평일 기준 1~2일 이내  
 - 버그 제보 시, 가능한 한 스크린샷 또는 재현 방법을 함께 알려주시면 도움이 됩니다.  
@@ -27,8 +27,7 @@
 
 ## 🔒 개인정보 처리방침
 개인정보 처리방침은 아래 페이지에서 확인하실 수 있습니다.  
-👉 [https://hayeonlee.github.io/meetpoint-privacy](https://hayeonlee.github.io/meetpoint-privacy)
-
+👉 [https://haggumi.github.io/meetpoint-support/privacy-policy]
 ---
 
 © 2025 Hayeon Lee. All rights reserved.
